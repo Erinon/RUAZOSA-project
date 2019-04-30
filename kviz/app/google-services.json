@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "777139606892",
+    "firebase_url": "https://remos-25dd2.firebaseio.com",
+    "project_id": "remos-25dd2",
+    "storage_bucket": "remos-25dd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777139606892:android:5afd2370c8e02db5",
+        "android_client_info": {
+          "package_name": "hr.fer.ruazosa.kviz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777139606892-8korbpqdbl77hom9dd9lkkv0gagdeh8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.fer.ruazosa.kviz",
+            "certificate_hash": "11cd3f050442e6e7c7e5ea775ea88a0b6432191f"
+          }
+        },
+        {
+          "client_id": "777139606892-papk7ttcm6na2ars6l4i03h46r9urjsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlC7bm1RO5MkTL5PBwQgihHcEDncFTYYs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777139606892-papk7ttcm6na2ars6l4i03h46r9urjsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
